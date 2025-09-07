@@ -15,12 +15,6 @@ venv/
 # Fichiers de logs
 *.log
 
-# Fichiers de données temporaires
-*.csv
-*.xlsx
-*.xls
-*.tmp
-
 # Dossiers de cache
 .cache/
 
