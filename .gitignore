@@ -1,0 +1,32 @@
+# Fichiers et dossiers Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environnement virtuel
+venv/
+.env/
+
+# Fichiers de configuration Streamlit
+.streamlit/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de données temporaires
+*.csv
+*.xlsx
+*.xls
+*.tmp
+
+# Dossiers de cache
+.cache/
+
+# Fichiers générés par Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
