@@ -4,7 +4,7 @@
 
 Ce projet est une application web interactive construite avec **Python et Streamlit** pour visualiser et analyser les données de ventes d'un supermarché mondial fictif. Le dashboard permet aux utilisateurs d'explorer les données de manière dynamique grâce à des filtres interactifs, démontrant ma capacité à transformer des données brutes en un outil de décisionnel intuitif.
 
-**Lien vers l'application en ligne : [Apr_s Le déploiement]**
+**Lien vers l'application en ligne : [Dashboard de ventes Interactifs](https://interactive-sales-dashboard.streamlit.app/)**
 
 ![Aperçu du Dashboard](images/dashboard_screenshot.png)  
 
